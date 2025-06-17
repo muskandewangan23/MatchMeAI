@@ -4,6 +4,12 @@ An AI-powered resume and job description matching system that recommends the bes
 ##  Live Demo
  [MatchMeAI](https://matchmeai-b6z5x3zsylrhzhpecsw6fr.streamlit.app)
 
+## 📸 App Screenshots
+**🔹 Homepage View**  
+![Homepage Screenshot](screenshot1.png)
+**🔹 Job Matching Result View**  
+![Result Screenshot](screenshot2.png)
+
 ##  Features
 - Upload resumes as PDFs or raw text
 - Upload job descriptions as CSV
