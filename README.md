@@ -16,6 +16,10 @@
 - Scikit-learn (TF-IDF + cosine similarity)
 - Pandas (data handling)
 
+## 🔗 Live Demo
+
+Try the app here 👉 [MatchMeAI](https://matchmeai-b6z5x3zsylrhzhpecsw6fr.streamlit.app)
+
 ## 🚀 How to Run Locally
 
 Make sure Python is installed. Then in the terminal:
@@ -23,3 +27,4 @@ Make sure Python is installed. Then in the terminal:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
