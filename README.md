@@ -2,7 +2,7 @@
 An AI-powered resume and job description matching system that recommends the best job fit based on semantic similarity.
 
 ##  Live Demo
- [Try MatchMeAI](https://matchmeai-b6z5x3zsylrhzhpecsw6fr.streamlit.app)
+ [MatchMeAI](https://matchmeai-b6z5x3zsylrhzhpecsw6fr.streamlit.app)
 
 ##  Features
 - Upload resumes as PDFs or raw text
