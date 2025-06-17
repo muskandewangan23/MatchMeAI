@@ -6,9 +6,9 @@ An AI-powered resume and job description matching system that recommends the bes
 
 ## 📸 App Screenshots
 **🔹 Homepage View**  
-![Homepage Screenshot](screenshot1.png)
+![Homepage Screenshot](Screenshot1.png)
 **🔹 Job Matching Result View**  
-![Result Screenshot](screenshot2.png)
+![Result Screenshot](Screenshot2.png)
 
 ##  Features
 - Upload resumes as PDFs or raw text
